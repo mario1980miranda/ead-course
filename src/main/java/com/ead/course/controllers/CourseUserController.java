@@ -95,5 +95,4 @@ public class CourseUserController {
 
         return ResponseEntity.status(HttpStatus.CREATED).body("Subscription created successfully");
     }
-
 }
